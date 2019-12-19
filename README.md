@@ -1,6 +1,6 @@
 # SpaceShooting
 Space shooter game on UE4
-https://www.youtube.com/watch?v=HKh_OJfGPhM
+https://docs.google.com/presentation/d/1ohZZYUbSl4g2yzCIiI7Xno8XDGvkjFK6qY8sagl707E/edit?usp=sharing -
 Demo: https://youtu.be/HKh_OJfGPhM
 
 Contributed by:
